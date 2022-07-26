@@ -14,8 +14,8 @@
 > Data Cleaning
 
 ## key Insights From Analysis
-There is a strong correlation between the number of retweet and the number of likes of every post.
+> There is a strong correlation between the number of retweet and the number of likes of every post.
 
-People rate their dogs mostly in winter (December to March)
+> People rate their dogs mostly in winter (December to March)
 
-The number of retweet is independent of the rating denominator
+> The number of retweet is independent of the rating denominator
